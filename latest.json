@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "",
+  "pub_date": "2025-07-16T05:30:03.152Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRjltY1Vkdjg2QlNmZU0weE9SaW5RUTBzRzdJOFMzQXpUVi9XY3NHK3hMNDZQa3Y1NWpBWEpXaHRtejlKd2o2SzhETE4wWWhoNm50TWhsR281aUVOdnVoSUs4SlNMbUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyNjM4Mzc2CWZpbGU6Z2gxODAtY29tbWlzc2lvbmluZy10b29sXzAuMS4wX3g2NC1zZXR1cC5leGUKZ3BKendNaU1jalNMVVEvVitnRlF3YTlHWWFvMGNBYnJvY3F5M2RzM3AyTWlOWTdhM09sUXEvTnBIRzlVUWh2cFIwQ3c5YlN4azNma3dxblNWQStOQVE9PQo=",
+      "url": "https://github.com/SIED-SW/INNECT/releases/download/0.1.0/gh180-commissioning-tool_0.1.0_x64-setup.exe"
+    }
+  }
+}
